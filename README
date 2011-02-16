@@ -1,0 +1,7 @@
+This is a project to create a way to communicate to the NXT over bluetooth using JAVA.
+
+The projuect used the bluecove library to initiate and use the bluetooth stack.
+It can be found here: http://bluecove.org/
+
+The project is licensed using the MIT license.
+
